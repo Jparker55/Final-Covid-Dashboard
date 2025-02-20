@@ -1,5 +1,5 @@
 # Final-Covid-Dashboard
-This excel bashed dashboard tracs covid cases and deaths in cook county Illinois.
+This excel bashed dashboard tracks covid cases and deaths in cook county Illinois.
 
 ##Features
 Weekly Trends for 15 weeks
