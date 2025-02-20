@@ -8,7 +8,8 @@ Weekly Death rates
 Ineractive data visualization with Pivot Charts
 
 ## Preview
-<img width="1696" alt="Screenshot 2025-02-19 at 7 56 27 PM" src="https://github.com/user-attachments/assets/9b9f8b1c-d478-49dc-b40e-46560a37e681" />
+
+<img width="1694" alt="Screenshot 2025-02-19 at 9 47 45 PM" src="https://github.com/user-attachments/assets/0feb7572-6b96-497c-b3fe-a2ea8dd45988" />
 
 #how to use
 Download the file & open final-covid-dashboard
